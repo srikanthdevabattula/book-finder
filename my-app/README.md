@@ -6,52 +6,46 @@ Built with React and Tailwind CSS, it provides a simple and user-friendly way to
 Deployed App: https://bookfinder-alex.netlify.app/
 <br/>
 ---
-■ Project Overview
-User Persona:
-Name: Alex
-Occupation: College Student
-Need: Alex wants to quickly search for books by title, see book covers, authors, and publication
-years —
-whether for study, leisure, or research.
-Solution:
-The Book Finder app lets Alex type a book title, hit “Search,” and instantly see a clean, responsive
-grid
-of matching results.
+■ Project Overview<br/>
+User Persona:<br/>
+Name: Alex<br/>
+Occupation: College Student<br/>
+Need: Alex wants to quickly search for books by title, see book covers, authors, and publicationyears — whether for study, leisure, or research.<br/>
+Solution:<br/>
+The Book Finder app lets Alex type a book title, hit “Search,” and instantly see a clean, responsive grid of matching results.<br/>
 ---
-■ Features
-■ Search for books by title
-■ Display book cover, author name, and first published year
-■ Loading indicator while fetching results
-■ Handles errors and no-result cases
-■ Responsive grid layout for mobile, tablet, and desktop
-■ Built with clean, modern UI using Tailwind CSS
+■ Features<br/>
+■ Search for books by title<br/>
+■ Display book cover, author name, and first published year<br/>
+■ Loading indicator while fetching results<br/>
+■ Handles errors and no-result cases<br/>
+■ Responsive grid layout for mobile, tablet, and desktop<br/>
+■ Built with clean, modern UI using Tailwind CSS<br/>
 ---
-■■ Tech Stack
-- Framework: React (Vite)
-- Styling: Tailwind CSS
-- API: Open Library Search API
-- Deployment: Netlify
+■■ Tech Stack<br/>
+- Framework: React (Vite)<br/>
+- Styling: Tailwind CSS<br/>
+- API: Open Library Search API<br/>
+- Deployment: Netlify<br/>
 ---
-■ API Reference
-Endpoint: https://openlibrary.org/search.json?title={bookTitle}
-Example: https://openlibrary.org/search.json?title=harry+potter
+■ API Reference<br/>
+Endpoint: https://openlibrary.org/search.json?title={bookTitle}<br/>
+Example: https://openlibrary.org/search.json?title=harry+potter<br/>
 ---
-■ Installation and Setup
-1■■ Clone the repository
-git clone https://github.com/srikanthdevabattula/book-finder.git
-git branch -M main
-git push -u origin main
-cd book-finder
-2■■ Install dependencies
-npm install
-3■■ Run the development server
-npm run dev
-Then open your browser at http://localhost:5173
----
-■ How I Worked With ChatGPT (Level 1)
-I collaborated with ChatGPT (GPT-5) to interpret requirements, design UI, write React + Tailwind
-code,
-handle API logic, and prepare documentation.
+■ Installation and Setup<br/>
+1■■ Clone the repository<br/>
+git clone https://github.com/srikanthdevabattula/book-finder.git<br/>
+git branch -M main<br/>
+git push -u origin main<br/>
+cd book-finder<br/>
+2■■ Install dependencies<br/>
+npm install<br/>
+3■■ Run the development server<br/>
+npm run dev<br/>
+Then open your browser at http://localhost:5173<br/>
+---<br/>
+■ How I Worked With ChatGPT (Level 1)<br/>
+I collaborated with ChatGPT (GPT-5) to interpret requirements, design UI, write React + Tailwind code, handle API logic, and prepare documentation.<br/>
 ---
 <img width="3157" height="1630" alt="image" src="https://github.com/user-attachments/assets/17ed08f1-12f7-4cb0-a6b0-e87f194df386" />
 
