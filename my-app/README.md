@@ -32,7 +32,7 @@ of matching results.
 - Framework: React (Vite)
 - Styling: Tailwind CSS
 - API: Open Library Search API
-- Deployment: CodeSandbox / StackBlitz / Vercel
+- Deployment: Netlify
 ---
 ■ API Reference
 Endpoint: https://openlibrary.org/search.json?title={bookTitle}
