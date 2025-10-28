@@ -1,12 +1,10 @@
-■ Book Finder Web App
-A responsive web application that allows users to search for books by title using the Open Library
-API.
-Built with React and Tailwind CSS, it provides a simple and user-friendly way to explore book
-details
-such as title, author, and publication year.
+■ Book Finder Web App<br/>
+A responsive web application that allows users to search for books by title using the Open Library API.<br/>
+Built with React and Tailwind CSS, it provides a simple and user-friendly way to explore book details such as title, author, and publication year.<br/>
 ---
-■ Live Demo
+■ Live Demo<br/>
 Deployed App: https://bookfinder-alex.netlify.app/
+<br/>
 ---
 ■ Project Overview
 User Persona:
